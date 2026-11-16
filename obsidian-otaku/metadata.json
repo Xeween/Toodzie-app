@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Otaku",
+  "description": "Dark slate anime and gaming community profile hub with Steam-style achievement showcases, collectible badges, and operator telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

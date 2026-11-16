@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsidian Otaku</string>
+    <string name="nav_profile">PROFILE</string>
+    <string name="nav_achievements">TROPHIES</string>
+    <string name="nav_badges">RELICS</string>
+    <string name="nav_loadout">LOADOUT</string>
+    <string name="showcase_featured_artwork">/// FEATURED ARTWORK</string>
+    <string name="showcase_badge_collection">/// BADGE COLLECTION</string>
+    <string name="showcase_recent_activity">/// RECENT ACTIVITY</string>
+    <string name="showcase_operator_feed">/// OPERATOR FEED</string>
+    <string name="showcase_squad_roster">/// SQUAD ROSTER</string>
+    <string name="showcase_system_logs">/// SYSTEM LOGS</string>
+    <string name="cd_operator_avatar">Operator avatar emblem</string>
+    <string name="cd_level_ring">Operator level progression ring</string>
+    <string name="cd_achievement_icon">Achievement emblem</string>
+    <string name="cd_badge_shield">Collectible badge shield</string>
+    <string name="cd_artwork_preview">Featured showcase artwork</string>
+    <string name="cd_edit_profile">Edit operator profile</string>
+    <string name="cd_post_comment">Post lore comment</string>
+    <string name="cd_search_achievements">Search achievements</string>
+    <string name="cd_clear_search">Clear search query</string>
+    <string name="cd_like_artwork">Toggle artwork endorsement</string>
+    <string name="cd_close_dialog">Close dialog</string>
+</resources>
